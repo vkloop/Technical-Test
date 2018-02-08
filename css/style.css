@@ -1,0 +1,17 @@
+select{
+    text-transform: uppercase;
+}
+
+
+body{
+    max-width: 600px;
+    margin: auto;
+}
+
+#select{
+    border-radius: 5px;
+    margin-top: 7%;
+     margin-bottom: 5%;
+    margin-left:20%;
+    padding: 1%;
+}
